@@ -47,9 +47,11 @@ Statistics:
   Maximum : 95
   Average : 82.14
 
+Enter your choice: 0
+Goodbye!
+
 Some of the lesson ive learned through this project include working through challenges. One in particular was the implimentation of the deletion function. with a higher-level container like std::vector
 calling erase hides the cost of shifting every element after deleting index. writing the shift loop by hand made the time complexity of the program obivious. In addition
 learning to track the logical size seperately from the arrays physical capacity.
 
-Enter your choice: 0
-Goodbye!
+
